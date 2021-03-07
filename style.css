@@ -1,0 +1,25 @@
+body {
+  min-height: 2000px;
+}
+ul {
+  color: rgb(10, 3, 2);
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: plum;
+}
+.jumbotron img {
+  width: 200px;
+  padding-bottom: 8px;
+}
+h1 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding-top: 3px;
+  margin-top: 3px;
+}
+p {
+  font-size: small;
+}
+h2 {
+  font-size: large;
+}
