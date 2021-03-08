@@ -1,11 +1,8 @@
-body {
-  min-height: 2000px;
-}
 ul {
   color: rgb(10, 3, 2);
 }
 .jumbotron {
-  padding-top: 2rem;
+  padding-top: 8rem;
   background-color: plum;
 }
 .jumbotron img {
@@ -22,4 +19,17 @@ p {
 }
 h2 {
   font-size: large;
+}
+#projects {
+  background-color: plum;
+}
+.row p {
+  color: plum;
+}
+#contact {
+  background-color: #fff;
+}
+
+section {
+  padding-top: 5rem;
 }
